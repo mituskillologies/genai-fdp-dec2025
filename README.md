@@ -1,8 +1,3 @@
-Below is a **complete, production-ready `README.md`** tailored for your **Faculty Development Program (FDP) on Generative AI**.
-It is structured for **academic audiences**, **GitHub best practices**, and **hands-on learning**, and it explicitly documents all notebooks and applications you have prepared.
-
-You can **directly copy–paste this into `README.md`** of the repository.
-
 ---
 
 # 🚀 The GenAI Playbook
