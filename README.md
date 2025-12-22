@@ -284,17 +284,3 @@ For FDP collaborations, institutional training, or academic partnerships:
 🌐 Website: *https://mitu.co.in*
 
 ---
-
-### ⭐ If you find this repository useful, please consider starring it on GitHub.
-
----
-
-If you want, I can next:
-
-* Generate a **professional `requirements.txt`**
-* Create a **`.env.example`**
-* Add **GitHub badges**
-* Optimize this README for **NAAC / NEP-2020 documentation**
-* Create a **separate Instructor Guide**
-
-Just tell me how you want to proceed.
